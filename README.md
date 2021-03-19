@@ -1,5 +1,5 @@
 # Machine Learning by Stanford University
-Instructor Andrew Ng
+Instructor Andrew Ng\n
 -Thank you to all the people who have contributed online
 -Programming Exercise 1 - Linear Regression
 -program Ex1 - Linear Regression with one variable
