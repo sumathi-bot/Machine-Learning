@@ -5,6 +5,6 @@ Instructor Andrew Ng
 
 -program Ex1 - Linear Regression with one variable
 -program Ex1_multi - Linear Regression with multiple variables
-
+Google Colab link
 https://drive.google.com/drive/folders/158U8TtAul8vdaujXF6HMdBPN0FSdwhPC?usp=sharing
 
