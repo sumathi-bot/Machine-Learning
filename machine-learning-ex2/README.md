@@ -6,7 +6,7 @@ Instructor Andrew Ng
 
 -program Ex2 - Logistic Regression model 
 
--program Ex2_reg - Logistic Regression with Regularization (TBD- fix training accuracy and the first value of gradient descent)
+-program Ex2_reg - Logistic Regression with Regularization 
 
 Google Colab link
 
