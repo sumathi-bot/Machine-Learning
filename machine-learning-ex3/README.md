@@ -4,7 +4,7 @@
 
 -ex3.pdf contains in-depth program information
 
--Programming Exercise 3 - Multi-class Classification and Neural Networks
+-Programming Exercise 3 - Multi-class Classification and Neural Networks (in Progress)
 
 -program Ex3 - Multi-class Classification with oneVsAll Logistic Regression
 -program Ex2_NN - Neural Networks
