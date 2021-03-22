@@ -4,7 +4,9 @@ Instructor Andrew Ng
 -Thank you to all the people who have contributed online
 -Programming Exercise 2 - Logistic Regression
 
--program Ex2 - Logistic Regression model 
+-program Ex2 - Logistic Regression model
+
+-ex2.pdf contains in-depth program information
 
 -program Ex2_reg - Logistic Regression with Regularization 
 
