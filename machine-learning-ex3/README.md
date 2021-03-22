@@ -1,5 +1,5 @@
 # Machine Learning by Stanford University
-Instructor Andrew Ng
+
 -Thank you to all the people who have contributed online
 
 -ex3.pdf contains in-depth program information
