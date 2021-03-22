@@ -1,5 +1,4 @@
 # Machine Learning by Stanford University
-Instructor Andrew Ng
 
 -Thank you to all the people who have contributed online
 
