@@ -10,4 +10,5 @@
 -program Ex2_NN - Neural Networks
 
 Google Colab link
-TBD
+
+https://drive.google.com/drive/folders/14g6oguZWF1Z70f_I_Jr4wZ63S4aQxrAQ?usp=sharing
