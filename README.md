@@ -13,3 +13,6 @@ https://drive.google.com/drive/folders/158U8TtAul8vdaujXF6HMdBPN0FSdwhPC?usp=sha
 
 https://drive.google.com/drive/folders/1XqX0t3_1-1kNmncGiMEddTRog636la-R?usp=sharing
 
+-Programming Exercise 3 - Multi-class Classification and Neural Networks
+
+
