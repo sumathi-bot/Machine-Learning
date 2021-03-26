@@ -1,7 +1,5 @@
 # Machine Learning by Stanford University
 
--Thank you to all the people who have contributed online
-
 -Programming Exercise 1 - Linear Regression
 
 -ex1.pdf contains in-depth program information
